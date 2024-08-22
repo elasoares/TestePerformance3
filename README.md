@@ -1,5 +1,5 @@
 # Verificação de Número Par
-##Exercício da Faculdade
+## Exercício da Faculdade (Desenvolvimento de Serviços Web e Testes com Java)
 
 Este projeto contém um programa simples em Java que verifica se um número inteiro é par. Ele inclui:
 
